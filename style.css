@@ -1,0 +1,11 @@
+table {
+    border-collapse: separate;
+    border-spacing: 60px;
+    stroke-opacity: 30px;
+}
+#icet01{
+    background-color: blue;
+}
+.group01{
+    background-color: yellowgreen;
+}
