@@ -8,4 +8,15 @@ table {
 }
 .group01{
     background-color: yellowgreen;
+    border: 5px solid red;
+    border-style: dotted;
+    border-radius: 20px;
+}
+
+#background{
+    background-image: url(img/backgroundimg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
 }
